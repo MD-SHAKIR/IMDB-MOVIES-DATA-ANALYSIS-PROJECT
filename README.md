@@ -1,2 +1,2 @@
 # IMDB-MOVIES-DATA-ANALYSIS-PROJECT
-Analyzed top-rated movies from the past decade using Python 
+Analyzed top-rated movies from the past decade using Python (NumPy, Pandas, Matplotlib, Seaborn) to uncover trends in ratings, revenue, and audience preferences. Explored actor influence and voter demographics, using visualizations like scatter plots, heatmaps, and box plots to reveal key insights. Showcased strong data analysis and storytelling skills through impactful findings.
